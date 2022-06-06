@@ -14,6 +14,12 @@ Debian
 apt install imagemagick
 `````
 **Usage**
+`````
 cd calameo-download-pdf
+`````
+`````
 chmod +x ./calameo.sh
+`````
+`````
 ./calameo.sh url
+`````
